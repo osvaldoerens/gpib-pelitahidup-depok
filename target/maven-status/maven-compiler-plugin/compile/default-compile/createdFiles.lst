@@ -1,0 +1,11 @@
+gpibph\app\GpibServer.class
+gpibph\daoImpl\JsonDateSerializer.class
+gpibph\model\Atestasi.class
+gpibph\model\Jemaat.class
+gpibph\util\Util.class
+gpibph\model\StatusKeluarga.class
+gpibph\app\Koneksi.class
+gpibph\daoImpl\Belajar.class
+gpibph\daoImpl\DataAtestasi.class
+gpibph\model\KepalaKeluarga.class
+gpibph\daoImpl\MasterData.class
