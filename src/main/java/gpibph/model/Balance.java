@@ -9,7 +9,6 @@ public class Balance {
 	private String last_update;
 	private String last_depositby;
 	
-	
 	public String getPartnerid() {
 		return partnerid;
 	}
